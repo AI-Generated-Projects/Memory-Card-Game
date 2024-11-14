@@ -1,0 +1,9 @@
+memory-card-game/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── game.js
+│   └── card.js
+└── assets/
+    └── images/
